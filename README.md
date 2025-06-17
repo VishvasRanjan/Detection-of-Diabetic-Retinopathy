@@ -104,4 +104,4 @@ We tackled diabetic retinopathy (DR) classification using clinician‑labeled re
 
 ---
 
-*Thanks for checking out our proof‑of‑concept! We hope it sparks new ideas in DR detection.*  
+*Thanks for checking out our proof‑of‑concept! I hope it sparks new ideas in DR detection.*  
