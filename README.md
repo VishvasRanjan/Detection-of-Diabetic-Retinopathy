@@ -6,14 +6,14 @@
 
 ---
 
-## 🚀 Project Vision
+## Project Vision
 
 This was an ideathon‑style challenge: build a proof‑of‑concept using only our existing skills to see if a “from‑scratch” approach could yield promising results.  
 > **Note:** Code quality and optimization are ongoing :— our current goal is to demonstrate that the idea works; domain experts can later refine and extend it.
 
 ---
 
-## 📋 Overview
+## Overview
 
 We tackled diabetic retinopathy (DR) classification using clinician‑labeled retinal images. Key steps:
 
@@ -49,7 +49,7 @@ We tackled diabetic retinopathy (DR) classification using clinician‑labeled re
 
 ---
 
-## 🎯 Key Insights
+## Key Insights
 
 - **DenseNet121** delivered the best balance of accuracy & F1, with smooth, stable training curves.  
 - **F1‑Score** is the critical metric for imbalanced medical data—here it uncovers true performance beyond raw accuracy.  
@@ -58,7 +58,7 @@ We tackled diabetic retinopathy (DR) classification using clinician‑labeled re
 
 ---
 
-## 📊 Slide‑Ready Summary
+## Slide‑Ready Summary
 
 - **Dataset & Objective:**  
   - 2,200 clinician‑labeled DR images (5 levels) from Kaggle  
@@ -89,14 +89,14 @@ We tackled diabetic retinopathy (DR) classification using clinician‑labeled re
 
 ---
 
-## 🔗 Dataset
+## Dataset
 
 - **Kaggle Diabetic Retinopathy Classification**  
   https://www.kaggle.com/competitions/diabetic-retinopathy-classification-f1-score-4/data
 
 ---
 
-## 📖 Next Steps
+## Next Steps
 
 - Code cleanup & modularization  
 - Hyperparameter sweeps & advanced augmentations  
@@ -104,4 +104,4 @@ We tackled diabetic retinopathy (DR) classification using clinician‑labeled re
 
 ---
 
-*Thanks for checking out our proof‑of‑concept! I hope it sparks new ideas in DR detection.*  
+*Thanks for checking out! I hope it sparks new ideas in DR detection.*  
